@@ -1,16 +1,11 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-<a href="https://twitter.com/SinghSaloni1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaloniSingh" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/saloni1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaloniSingh" height="30" width="30" /></a>&nbsp;
-</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
- 🏦 I'm a Software Engineer working for a US Bank in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- 🎓 &nbsp;I'm a 2023 CS grad from IIT Dharwad.
- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.ts**, **react**
- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
- 💬 Talk to me about badminton, react, silicon valley & startups
+ 🏦 I'm a Software Engineer working for a US Bank in India \
+ 🎓 &nbsp;I'm a 2023 CS grad from IIT Dharwad. \
+ 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.ts**, **react** \
+ 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann \
+ 💬 Talk to me about badminton, react, silicon valley & startups \
  🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -37,14 +32,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaloniSingh1601&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+---
+<!--START_SECTION:waka-->
+<p align="center" ><img align="center" height="300" width="400" src="https://i.imgur.com/rHlEdDq.gif"></img></p>
+<!--END_SECTION:waka-->
+<p align="center">
+<a href="https://twitter.com/SinghSaloni1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaloniSingh" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/saloni1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaloniSingh" height="30" width="30" /></a>&nbsp;
+</p>
 
 <!--
 **SaloniSingh1601/SaloniSingh1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
