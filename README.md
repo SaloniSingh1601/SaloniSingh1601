@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
- 🏦 I'm a Software Engineer working for a US Bank in India \
+ 🏦 I'm a Software Engineer working for a US Bank \
  🎓 &nbsp;I'm a 2023 CS grad from IIT Dharwad. \
  💻 I use daily: **.js**, **.java**, **.py**,  **.sql**, **.ts**, **react** \
  📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann \
